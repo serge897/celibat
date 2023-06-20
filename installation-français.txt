@@ -1,0 +1,38 @@
+Merci d'avoir acheter le "Pack Cote d'Ivoire" pour "Love Dating Script"
+==================================================================
+
+Ce pack comprend l'inclusion du Pays Cote d'ivoire sur Love Dating Script
+et comprend :
+
+- 13 Région
+- 1280 Villes
+- 921 Villes géolocaliser
+
+Comment installer le Pack ?
+===========================
+
+Il vous suffit de copier le fichier "pack_cote_ivoire.php" sur votre FTP ou est installer
+"Love Dating Script" à la racine. Puis de consulter la page "pack_cote_ivoire.php".
+
+Exemple : votre nom de domaine est par exemple http://www.monsite.com, visiter la page http://www.monsite.com/pack_cote_ivoire.php
+
+Une fois le pack installer, vous pouvez supprimer le fichier "pack_cote_ivoire.php" de votre FTP pour éviter
+toute tentative de compromision de vos données.
+
+++ Bug et Amélioration ++
+=========================
+
+Dans un soucis de vouloir toujours proposer des produits de qualité, tous nos script s'améliore de jour en jour
+des mises à jour seront régulièrement proposer et elle seront visible depuis votre administration.
+
+Si vous rencontrer un bug à l'utilisation, n'hésitez pas nous remonter les problèmes rencontrer. Nous pourrons
+de ce fait le corriger et améliorer notre produit. Vous pouvez également nous faire des suggestions d'amélioration
+et nous déciderons en fonction de sa pertinence si nous l'ajoutons dans notre produit.
+
+Si vous rencontrer un bug ou souhaitez nous faire un suggestion d'amélioration, contacter nous par email à
+
+contact@shua-creation
+
+ou bien depuis le formulaire de contact du site :
+
+https://www.shua-creation.com/fr/contact.php
